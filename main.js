@@ -1,5 +1,5 @@
 $(function () {
-    fetch("http://127.0.0.1:5500/src/data.json")
+    fetch("https://2021.2024.jalpademendez.gob.mx/src/data.json")
     .then(response => response.json())
     .then(json =>{
 

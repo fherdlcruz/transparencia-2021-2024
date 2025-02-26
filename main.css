@@ -1,5 +1,5 @@
 body{
-    background: #6E2133 !important;
+    background: #FFF7E8 !important;
     --fill-layer-video-opacity: 0.42;
     --bg-gradient: linear-gradient(180deg, #802238 0%, #9F1037 100%);
     --bg-overlay-color: transparent;
@@ -28,7 +28,7 @@ body{
 .logo{
     display: inline-block;
     margin: 0px auto;
-    width: 30% !important;
+    width: 90% !important;
 }
 .logo img{
     width: 100%;
